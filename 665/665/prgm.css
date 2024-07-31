@@ -1,0 +1,12 @@
+.text {
+    background-color:blue;}
+.head {
+    color:black(190,60,15);
+    font-size:60px;
+    text-align:centre;
+}
+.para {
+    font-size:25px;
+    text-align:centre;
+    color:aqua;
+}
